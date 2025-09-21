@@ -1,0 +1,11 @@
+streamlit==1.29.0
+kafka-python==2.1.1
+confluent-kafka==2.11.1
+Faker==23.3.0
+pandas==2.1.1
+numpy==1.26.2
+SQLAlchemy==2.0.20
+psycopg2-binary==2.9.9
+schedule==1.2.0
+python_dotenv==1.0.1
+
