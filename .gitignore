@@ -1,1 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# FastAPI specific cache
+fast_api/__pycache__/
+
+# Environment files
 .env
+
